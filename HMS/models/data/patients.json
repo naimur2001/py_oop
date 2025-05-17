@@ -1,0 +1,13 @@
+[
+    {
+        "name": "emon",
+        "age": "25",
+        "symptoms": "cold"
+    },
+    {
+        "name": "ayra",
+        "age": "1",
+        "phone": "10101010",
+        "symptoms": "fever"
+    }
+]
